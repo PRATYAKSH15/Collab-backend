@@ -20,7 +20,9 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
+    "@prisma/client": "^6.16.2",
     "express": "^5.1.0",
-    "install": "^0.13.0"
+    "install": "^0.13.0",
+    "prisma": "^6.16.2"
   }
 }
